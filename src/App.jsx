@@ -1,5 +1,5 @@
 import './App.css';
-import Flashcard from './components/Flashcard';
+import Flashcard, { cards } from './components/Flashcard';
 
 const App = () => {
 
@@ -8,7 +8,7 @@ const App = () => {
       <h1>🇷🇺 Russian Drill Sergeant 🇷🇺</h1>
       <h2>How many Russian words and phrases do you have memorized?</h2>
       <h4>Say each Russian word or phrase out loud for extra practice!</h4>
-      <h6>Total Number of Cards: 10</h6>
+      <h6>Total Number of Cards: {cards.length}</h6>
       <Flashcard />
     </div>
   )
