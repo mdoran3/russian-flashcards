@@ -1,6 +1,6 @@
 # Web Development Project 2 - *Russian Drill Sergeant*
 
-Submitted by: **Mitchell D.**
+Submitted by: **Mitchell Doran**
 
 This web app: **A Russian vocabulary flashcard tool for practicing common English words and phrases with their Russian translations.**
 
@@ -55,7 +55,7 @@ GIF created with ...
 
 ## License
 
-    Copyright [2026] [Mitchell D.]
+    Copyright [2026] [Mitchell Doran]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
